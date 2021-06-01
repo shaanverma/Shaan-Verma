@@ -1,4 +1,19 @@
-### Hi there 👋
+## Welcome to my page!
+
+### About Me
+* Computer Science and Chemistry major.
+* I love exploring new technologies, developing software solutions, and quick hacks.
+* 🌱 I’m currently learning more about Machine Learning, Computational Neuroscience, and Deep Learning.
+* 📫 How to reach me: shaan.k.verma@gmail.com
+
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+- 😄 Pronouns: ...
+- 
+
 
 <!--
 **shaanverma/shaanverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
