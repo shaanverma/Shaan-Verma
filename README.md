@@ -7,13 +7,6 @@
 * 📫 How to reach me: shaan.k.verma@gmail.com
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- 
-
 
 <!--
 **shaanverma/shaanverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
